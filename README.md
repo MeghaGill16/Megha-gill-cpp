@@ -16,4 +16,3 @@ Void main() {
     } else {
         cout << num << " is Odd." << endl;
     }
-}# Megha-gill-cpp
